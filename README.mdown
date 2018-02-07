@@ -26,7 +26,7 @@
 You will need the latest developer tools in order to build `MBProgressHUD`. Old Xcode versions might work, but compatibility will not be explicitly maintained.
 
 ## Adding MBProgressHUD to your project
-
+You can import this using either CocoaPods or Carthage.
 ### CocoaPods
 
 [CocoaPods](http://cocoapods.org) is the recommended way to add MBProgressHUD to your project.
